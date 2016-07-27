@@ -1,0 +1,75 @@
+{
+    "1":
+    {
+        {
+            "heb": "בְּרֵאשִׁית",
+            "fr":
+            {
+                "segond": "Au commencement",
+                "darby": "Au commencement",
+                "chouraqui": "Entête"
+            }
+            "strong": "07225"
+        },
+        {
+            "heb": "בָּרָא",
+            "fr":
+            {
+                "segond": "créa",
+                "darby": "",
+                "chouraqui": ""
+            }
+            "strong": "01254"
+        },
+        {
+            "heb": "אֱלֹהִים",
+            "fr":
+            {
+                "segond": "Dieu",
+                "darby": "",
+                "chouraqui": ""
+            }
+            "strong": "0430"
+        },
+        {
+            "heb": "אֵת",
+            "fr":
+            {
+                "segond": "",
+                "darby": "",
+                "chouraqui": ""
+            }
+            "strong": "0853"
+        },
+        {
+            "heb": "הַשָּׁמַיִם",
+            "fr":
+            {
+                "segond": "les cieux",
+                "darby": "",
+                "chouraqui": ""
+            }
+            "strong": "08064"
+        },
+        {
+            "heb": "וְאֵת",
+            "fr":
+            {
+                "segond": "et",
+                "darby": "",
+                "chouraqui": ""
+            }
+            "strong": "0853"
+        },
+        {
+            "heb": "הָאָרֶץ",
+            "fr":
+            {
+                "segond": "la terre",
+                "darby": "",
+                "chouraqui": ""
+            }
+            "strong": "0776"
+        }
+    }
+}

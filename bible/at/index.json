@@ -1,0 +1,209 @@
+{
+	"books":
+	{
+        "torah":
+        {
+            "gn":
+            {
+                "name": "Genèse",
+                "chapters": "50"
+            },
+            "ex":
+            {
+                "name": "Exode",
+                "chapters": ""
+            },
+            "lv":
+            {
+                "name": "Lévitique",
+                "chapters": ""
+            },
+            "nb":
+            {
+                "name": "Nombres",
+                "chapters": ""
+            },
+            "dt":
+            {
+                "name": "Deutéronome",
+                "chapters": ""
+            }
+        },
+        "neviim":
+        {
+            "jos":
+            {
+                "name": "",
+                "chapters": ""
+            },
+            "jg":
+            {
+                "name": "Juges",
+                "chapters": ""
+            },
+            "1s":
+            {
+                "name": "1 Samuel",
+                "chapters": ""
+            },
+            "2s":
+            {
+                "name": "2 Samuel",
+                "chapters": ""
+            },
+            "1r":
+            {
+                "name": "1 Rois",
+                "chapters": ""
+            },
+            "2r":
+            {
+                "name": "2 Rois",
+                "chapters": ""
+            },
+             "es":
+            {
+                "name": "Esaïe",
+                "chapters": ""
+            },
+            "jr":
+            {
+                "name": "Jérémie",
+                "chapters": ""
+            },
+            "ez":
+            {
+                "name": "Ezechiel",
+                "chapters": ""
+            },
+            "os":
+            {
+                "name": "Osée",
+                "chapters": ""
+            },
+            "jl":
+            {
+                "name": "Joël",
+                "chapters": ""
+            },
+            "am":
+            {
+                "name": "Amos",
+                "chapters": ""
+            },
+            "ab":
+            {
+                "name": "Abdias",
+                "chapters": ""
+            },
+            "jon":
+            {
+                "name": "Jonas",
+                "chapters": ""
+            },
+            "mi":
+            {
+                "name": "Michée",
+                "chapters": ""
+            },
+            "na":
+            {
+                "name": "Nahoum",
+                "chapters": ""
+            },
+            "ha":
+            {
+                "name": "Habakuk",
+                "chapters": ""
+            },
+            "so":
+            {
+                "name": "Sophonie",
+                "chapters": ""
+            },
+            "ag":
+            {
+                "name": "Agée",
+                "chapters": ""
+            },
+            "za":
+            {
+                "name": "Zacharie",
+                "chapters": ""
+            },
+            "ml":
+            {
+                "name": "Malachie",
+                "chapters": ""
+            }
+        },
+        "ketouvim":
+        {
+            "ps":
+            {
+                "name": "Psaumes",
+                "chapters": ""
+            },
+            "pr":
+            {
+                "name": "Proverbes",
+                "chapters": ""
+            },
+             "jb":
+            {
+                "name": "Job",
+                "chapters": ""
+            },
+            "ct":
+            {
+                "name": "Cantique des cantiques",
+                "chapters": ""
+            },
+             "rt":
+            {
+                "name": "Ruth",
+                "chapters": ""
+            },
+             "lm":
+            {
+                "name": "Lamentations",
+                "chapters": ""
+            },
+            "ecc":
+            {
+                "name": "Ecclésiaste",
+                "chapters": ""
+            },
+            "est":
+            {
+                "name": "Esther",
+                "chapters": ""
+            },
+             "dn":
+            {
+                "name": "Daniel",
+                "chapters": ""
+            },
+            "esd":
+            {
+                "name": "Esdras",
+                "chapters": ""
+            },
+            "ne":
+            {
+                "name": "Néhémie",
+                "chapters": ""
+            },
+             "1ch":
+            {
+                "name": "1 Chroniques",
+                "chapters": ""
+            },
+            "2ch":
+            {
+                "name": "2 Chroniques",
+                "chapters": ""
+            }
+        }
+	}
+}

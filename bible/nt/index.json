@@ -1,0 +1,149 @@
+{
+    "books":
+    {
+        "evangelion":
+        {
+            "mt":
+            {
+                "name": "Matthieu",
+                "chapters": ""
+            },
+            "mc":
+            {
+                "name": "Marc",
+                "chapters": ""
+            },
+            "lc":
+            {
+                "name": "Luc",
+                "chapters": ""
+            },
+            "jn":
+            {
+                "name": "Jean",
+                "chapters": ""
+            }
+        },
+        "epistolon":
+        {
+             "rm":
+            {
+                "name": "Romains",
+                "chapters": ""
+            },
+            "1co":
+            {
+                "name": "1 Corinthiens",
+                "chapters": ""
+            },
+            "2co":
+            {
+                "name": "2 Corinthiens",
+                "chapters": ""
+            },
+            "ga":
+            {
+                "name": "Galates",
+                "chapters": ""
+            },
+            "eph":
+            {
+                "name": "Ephésiens",
+                "chapters": ""
+            },
+            "ph":
+            {
+                "name": "Philippiens",
+                "chapters": ""
+            },
+            "col":
+            {
+                "name": "Colossiens",
+                "chapters": ""
+            },
+            "1th":
+            {
+                "name": "1 Thessaloniciens",
+                "chapters": ""
+            },
+            "2th":
+            {
+                "name": "2 Thessaloniciens",
+                "chapters": ""
+            },
+            "1tm":
+            {
+                "name": "1 Timothée",
+                "chapters": ""
+            },
+            "2tm":
+            {
+                "name": "2 Timothée",
+                "chapters": ""
+            },
+            "tt":
+            {
+                "name": "Tite",
+                "chapters": ""
+            },
+            "phm":
+            {
+                "name": "Philémon",
+                "chapters": ""
+            },
+            "jc":
+            {
+                "name": "Jacques",
+                "chapters": ""
+            },
+            "1p":
+            {
+                "name": "1 Pierre",
+                "chapters": ""
+            },
+            "2p":
+            {
+                "name": "2 Pierre",
+                "chapters": ""
+            },
+            "1jn":
+            {
+                "name": "1 Jean",
+                "chapters": ""
+            },
+            "2jn":
+            {
+                "name": "2 Jean",
+                "chapters": ""
+            },
+            "3jn":
+            {
+                "name": "3 Jean",
+                "chapters": ""
+            },
+            "js":
+            {
+                "name": "Jude",
+                "chapters": ""
+            }
+        },
+        "loipoi":
+        {
+            "ac":
+            {
+                "name": "Actes",
+                "chapters": ""
+            },
+            "he":
+            {
+                "name": "Hébreux",
+                "chapters": ""
+            },
+            "ap":
+            {
+                "name": "Apocalypse",
+                "chapters": ""
+            }
+        }
+    }
+}
